@@ -27,7 +27,7 @@ time
 * [X] :one: Save weather data to EEPROM if SD card not present
 * [X] :two: Move weather data from EEPROM to SD card when SD card is replaced
 * [X] :two: Save error logs to EEPROM if SD card not present
-* [ ] :two: Move error logs from EEPROM to SD card when SD card is replaced
+* [X] :two: Move error logs from EEPROM to SD card when SD card is replaced
 * [X] :two: Include station identifier in weather data records on SD card
 * [ ] :three: Monitor and provide battery voltage (save to SD card on wake)
 * [ ] :three: Add dependency list here including library names and

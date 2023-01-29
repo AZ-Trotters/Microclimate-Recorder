@@ -6,7 +6,7 @@
   "source": "@site/docs/SD Card/statInfo/errorlog.txt/index.md",
   "sourceDirName": "SD Card/statInfo/errorlog.txt",
   "slug": "/SD Card/statInfo/errorlog.txt/",
-  "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt/",
+  "permalink": "/docs/SD Card/statInfo/errorlog.txt/",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/errorlog.txt/index.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "batvolt.txt",
-    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt/"
+    "permalink": "/docs/SD Card/statInfo/batvolt.txt/"
   },
   "next": {
-    "title": "wthrvals.csv",
-    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/wthrvals.csv/"
+    "title": "statOpts",
+    "permalink": "/docs/SD Card/statOpts/"
   }
 }

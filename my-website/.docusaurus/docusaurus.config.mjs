@@ -4,16 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Weather Stations",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/Microclimate-Recorder/",
-  "onBrokenLinks": "ignore",
-  "onBrokenMarkdownLinks": "warn",
+  "title": "My Site",
+  "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "organizationName": "AZ-Trotters",
-  "projectName": "Microclimate-Recorder",
-  "deploymentBranch": "gh-pages",
-  "trailingSlash": false,
+  "url": "https://your-docusaurus-test-site.com",
+  "baseUrl": "/",
+  "organizationName": "facebook",
+  "projectName": "docusaurus",
+  "onBrokenLinks": "throw",
+  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\MicroClimate Sensor\\my-website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\new-website\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,12 +34,13 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\MicroClimate Sensor\\my-website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\new-website\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
+    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "My Site",
       "logo": {
@@ -50,9 +50,19 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "Intro",
+          "docId": "intro",
           "position": "left",
-          "label": "Docs"
+          "label": "Tutorial"
+        },
+        {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/facebook/docusaurus",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -61,24 +71,46 @@ export default {
       "style": "dark",
       "links": [
         {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "Tutorial",
+              "to": "/docs/intro"
+            }
+          ]
+        },
+        {
           "title": "Community",
           "items": [
             {
-              "label": "GitHub Org",
-              "href": "https://github.com/AZ-Trotters"
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              "label": "GitHub Repo",
-              "href": "https://github.com/AZ-Trotters/weather-station-project"
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
         {
           "title": "More",
-          "items": []
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/facebook/docusaurus"
+            }
+          ]
         }
       ],
-      "copyright": "Copyright © 2023 Built with Docusaurus."
+      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -314,7 +346,6 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
-  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

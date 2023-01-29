@@ -1,4 +1,4 @@
-# weather-station-project
+# Microclimate Recorder
 
 Arduino project and related info files for use in outdoor weather station
 project

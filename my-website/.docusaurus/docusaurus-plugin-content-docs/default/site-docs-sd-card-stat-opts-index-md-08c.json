@@ -6,7 +6,7 @@
   "source": "@site/docs/SD Card/statOpts/index.md",
   "sourceDirName": "SD Card/statOpts",
   "slug": "/SD Card/statOpts/",
-  "permalink": "/docs/SD Card/statOpts/",
+  "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/index.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "errorlog.txt",
-    "permalink": "/docs/SD Card/statInfo/errorlog.txt/"
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt/"
   },
   "next": {
     "title": "statName.txt",
-    "permalink": "/docs/SD Card/statOpts/statName.txt/"
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/"
   }
 }

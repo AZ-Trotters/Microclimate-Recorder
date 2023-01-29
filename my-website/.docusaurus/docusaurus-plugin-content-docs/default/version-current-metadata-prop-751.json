@@ -12,19 +12,19 @@
       {
         "type": "link",
         "label": "Intro",
-        "href": "/docs/intro",
+        "href": "/Microclimate-Recorder/docs/intro",
         "docId": "intro"
       },
       {
         "type": "link",
         "label": "EEPROM Usage",
-        "href": "/docs/EEPROM Usage/",
+        "href": "/Microclimate-Recorder/docs/EEPROM Usage/",
         "docId": "EEPROM Usage/index"
       },
       {
         "type": "link",
         "label": "Error Codes",
-        "href": "/docs/Error Codes/",
+        "href": "/Microclimate-Recorder/docs/Error Codes/",
         "docId": "Error Codes/index"
       },
       {
@@ -42,17 +42,17 @@
               {
                 "type": "link",
                 "label": "batvolt.txt",
-                "href": "/docs/SD Card/statInfo/batvolt.txt/",
+                "href": "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt/",
                 "docId": "SD Card/statInfo/batvolt.txt/index"
               },
               {
                 "type": "link",
                 "label": "errorlog.txt",
-                "href": "/docs/SD Card/statInfo/errorlog.txt/",
+                "href": "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt/",
                 "docId": "SD Card/statInfo/errorlog.txt/index"
               }
             ],
-            "href": "/docs/SD Card/statInfo/"
+            "href": "/Microclimate-Recorder/docs/SD Card/statInfo/"
           },
           {
             "type": "category",
@@ -63,17 +63,17 @@
               {
                 "type": "link",
                 "label": "statName.txt",
-                "href": "/docs/SD Card/statOpts/statName.txt/",
+                "href": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/",
                 "docId": "SD Card/statOpts/statName.txt/index"
               },
               {
                 "type": "link",
                 "label": "time.txt",
-                "href": "/docs/SD Card/statOpts/time.txt/",
+                "href": "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt/",
                 "docId": "SD Card/statOpts/time.txt/index"
               }
             ],
-            "href": "/docs/SD Card/statOpts/"
+            "href": "/Microclimate-Recorder/docs/SD Card/statOpts/"
           }
         ]
       }

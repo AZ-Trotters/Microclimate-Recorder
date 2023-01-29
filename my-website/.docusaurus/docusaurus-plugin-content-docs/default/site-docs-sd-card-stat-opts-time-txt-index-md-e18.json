@@ -6,7 +6,7 @@
   "source": "@site/docs/SD Card/statOpts/time.txt/index.md",
   "sourceDirName": "SD Card/statOpts/time.txt",
   "slug": "/SD Card/statOpts/time.txt/",
-  "permalink": "/docs/SD Card/statOpts/time.txt/",
+  "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt/",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/time.txt/index.md",
   "tags": [],
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "statName.txt",
-    "permalink": "/docs/SD Card/statOpts/statName.txt/"
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/"
   }
 }

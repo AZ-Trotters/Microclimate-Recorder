@@ -6,7 +6,7 @@
   "source": "@site/docs/Error Codes/index.md",
   "sourceDirName": "Error Codes",
   "slug": "/Error Codes/",
-  "permalink": "/docs/Error Codes/",
+  "permalink": "/Microclimate-Recorder/docs/Error Codes/",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Error Codes/index.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "EEPROM Usage",
-    "permalink": "/docs/EEPROM Usage/"
+    "permalink": "/Microclimate-Recorder/docs/EEPROM Usage/"
   },
   "next": {
     "title": "statInfo",
-    "permalink": "/docs/SD Card/statInfo/"
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/"
   }
 }

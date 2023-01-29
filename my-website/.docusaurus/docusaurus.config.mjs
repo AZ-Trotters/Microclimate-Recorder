@@ -7,10 +7,12 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://az-trotters.github.io",
+  "baseUrl": "/Microclimate-Recorder/",
+  "organizationName": "AZ-Trotters",
+  "projectName": "Microclimate-Recorder",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\new-website\\sidebars.js",
+          "sidebarPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\my-website\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +36,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\new-website\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\my-website\\src\\css\\custom.css"
         }
       }
     ]

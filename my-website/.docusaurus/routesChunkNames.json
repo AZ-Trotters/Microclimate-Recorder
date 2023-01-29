@@ -1,8 +1,8 @@
 {
-  "/blog-2e8": {
+  "/Microclimate-Recorder/blog-ec6": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "items": [
@@ -19,51 +19,51 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "49a35d28"
   },
-  "/blog/archive-329": {
+  "/Microclimate-Recorder/blog/archive-044": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
-    "archive": "b2f554cd"
+    "archive": "5bed1d82"
   },
-  "/blog/first-blog-post-d3c": {
+  "/Microclimate-Recorder/blog/first-blog-post-bf9": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-35a": {
+  "/Microclimate-Recorder/blog/long-blog-post-670": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-519": {
+  "/Microclimate-Recorder/blog/mdx-blog-post-1d8": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-e5f": {
+  "/Microclimate-Recorder/blog/tags-91c": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "d8e6ad35"
   },
-  "/blog/tags/docusaurus-263": {
+  "/Microclimate-Recorder/blog/tags/docusaurus-553": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "items": [
@@ -80,13 +80,13 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "deacc012",
+    "listMetadata": "3abe7c8a"
   },
-  "/blog/tags/facebook-c8b": {
+  "/Microclimate-Recorder/blog/tags/facebook-4d1": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "items": [
@@ -94,13 +94,13 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "4a2ee79b",
+    "listMetadata": "4bb0f2fe"
   },
-  "/blog/tags/hello-076": {
+  "/Microclimate-Recorder/blog/tags/hello-88c": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "items": [
@@ -111,13 +111,13 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "64726ba5",
+    "listMetadata": "0d0e3f20"
   },
-  "/blog/tags/hola-bf0": {
+  "/Microclimate-Recorder/blog/tags/hola-b5c": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "items": [
@@ -125,71 +125,71 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "3fc4ca50",
+    "listMetadata": "b56919a0"
   },
-  "/blog/welcome-220": {
+  "/Microclimate-Recorder/blog/welcome-c70": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "403f5f61"
+      "plugin": "92452b75"
     },
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-100": {
+  "/Microclimate-Recorder/markdown-page-eed": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "6542d7c4"
+      "plugin": "05741993"
     },
     "content": "393be207"
   },
-  "/docs-6ca": {
+  "/Microclimate-Recorder/docs-3b8": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "270d0425"
+      "plugin": "89caa3d7"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/EEPROM Usage/-f92": {
+  "/Microclimate-Recorder/docs/EEPROM Usage-44c": {
     "__comp": "17896441",
     "content": "bb9f4dc5"
   },
-  "/docs/Error Codes/-c35": {
+  "/Microclimate-Recorder/docs/Error Codes-1a5": {
     "__comp": "17896441",
     "content": "24ecfd97"
   },
-  "/docs/intro-aed": {
+  "/Microclimate-Recorder/docs/intro-6df": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/SD Card/statInfo/-e35": {
+  "/Microclimate-Recorder/docs/SD Card/statInfo-923": {
     "__comp": "17896441",
     "content": "2297a93b"
   },
-  "/docs/SD Card/statInfo/batvolt.txt/-700": {
+  "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt-352": {
     "__comp": "17896441",
     "content": "e856eb7a"
   },
-  "/docs/SD Card/statInfo/errorlog.txt/-7e3": {
+  "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt-d1f": {
     "__comp": "17896441",
     "content": "26c1e8fb"
   },
-  "/docs/SD Card/statOpts/-a32": {
+  "/Microclimate-Recorder/docs/SD Card/statOpts-939": {
     "__comp": "17896441",
     "content": "08c2dc73"
   },
-  "/docs/SD Card/statOpts/statName.txt/-41d": {
+  "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt-4f6": {
     "__comp": "17896441",
     "content": "2b37bb60"
   },
-  "/docs/SD Card/statOpts/time.txt/-bcd": {
+  "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt-302": {
     "__comp": "17896441",
     "content": "e18c1d5c"
   },
-  "/-cc9": {
+  "/Microclimate-Recorder/-d2f": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "6542d7c4"
+      "plugin": "05741993"
     },
     "config": "5e9f5e1a"
   }

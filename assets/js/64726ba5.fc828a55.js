@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknew_website=self.webpackChunknew_website||[]).push([[971],{7624:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Microclimate-Recorder/blog/tags/hello","allTagsPath":"/Microclimate-Recorder/blog/tags","count":2}')}}]);

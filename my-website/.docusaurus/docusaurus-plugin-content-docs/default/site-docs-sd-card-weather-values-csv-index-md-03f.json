@@ -1,0 +1,20 @@
+{
+  "unversionedId": "SD Card/weatherValues.csv/index",
+  "id": "SD Card/weatherValues.csv/index",
+  "title": "weatherValues.csv",
+  "description": "📝 Written by: Weather Station",
+  "source": "@site/docs/SD Card/weatherValues.csv/index.md",
+  "sourceDirName": "SD Card/weatherValues.csv",
+  "slug": "/SD Card/weatherValues.csv/",
+  "permalink": "/docs/SD Card/weatherValues.csv/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/weatherValues.csv/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stationOptions.json (⚠ Unused)",
+    "permalink": "/docs/SD Card/stationOptions (Unused).json/"
+  }
+}

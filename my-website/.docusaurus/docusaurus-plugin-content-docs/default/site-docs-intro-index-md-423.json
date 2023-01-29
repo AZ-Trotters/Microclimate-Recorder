@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Intro/index",
+  "id": "Intro/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/Intro/index.md",
+  "sourceDirName": "Intro",
+  "slug": "/Intro/",
+  "permalink": "/Microclimate-Recorder/docs/Intro/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intro/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Error Codes",
+    "permalink": "/Microclimate-Recorder/docs/Error Codes/"
+  },
+  "next": {
+    "title": "Intro",
+    "permalink": "/Microclimate-Recorder/docs/Intro"
+  }
+}

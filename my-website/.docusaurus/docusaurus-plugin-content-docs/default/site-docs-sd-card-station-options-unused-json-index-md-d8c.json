@@ -1,0 +1,20 @@
+{
+  "unversionedId": "SD Card/stationOptions (Unused).json/index",
+  "id": "SD Card/stationOptions (Unused).json/index",
+  "title": "stationOptions.json (⚠ Unused)",
+  "description": "📝 Written by: Computer/Application",
+  "source": "@site/docs/SD Card/stationOptions (Unused).json/index.md",
+  "sourceDirName": "SD Card/stationOptions (Unused).json",
+  "slug": "/SD Card/stationOptions (Unused).json/",
+  "permalink": "/docs/SD Card/stationOptions (Unused).json/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/stationOptions (Unused).json/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "time.txt",
+    "permalink": "/docs/SD Card/statOpts/time.txt/"
+  }
+}

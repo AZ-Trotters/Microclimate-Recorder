@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SD Card/statInfo/index",
+  "id": "SD Card/statInfo/index",
+  "title": "statInfo",
+  "description": "Short for \"Station Info\", contains information given by the weather station.",
+  "source": "@site/docs/SD Card/statInfo/index.md",
+  "sourceDirName": "SD Card/statInfo",
+  "slug": "/SD Card/statInfo/",
+  "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/Microclimate-Recorder/docs/Intro"
+  },
+  "next": {
+    "title": "batvolt.txt",
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt/"
+  }
+}

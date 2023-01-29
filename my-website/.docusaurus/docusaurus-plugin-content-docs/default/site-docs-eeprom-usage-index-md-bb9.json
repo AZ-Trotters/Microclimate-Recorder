@@ -1,0 +1,20 @@
+{
+  "unversionedId": "EEPROM Usage/index",
+  "id": "EEPROM Usage/index",
+  "title": "EEPROM Usage",
+  "description": "📃 Description",
+  "source": "@site/docs/EEPROM Usage/index.md",
+  "sourceDirName": "EEPROM Usage",
+  "slug": "/EEPROM Usage/",
+  "permalink": "/Microclimate-Recorder/docs/EEPROM Usage/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/EEPROM Usage/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Error Codes",
+    "permalink": "/Microclimate-Recorder/docs/Error Codes/"
+  }
+}

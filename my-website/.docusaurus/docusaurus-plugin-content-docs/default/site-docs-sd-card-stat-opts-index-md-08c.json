@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SD Card/statOpts/index",
+  "id": "SD Card/statOpts/index",
+  "title": "statOpts",
+  "description": "Short for Station Options, this folder houses text files to change certain",
+  "source": "@site/docs/SD Card/statOpts/index.md",
+  "sourceDirName": "SD Card/statOpts",
+  "slug": "/SD Card/statOpts/",
+  "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wthrvals.csv",
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statInfo/wthrvals.csv/"
+  },
+  "next": {
+    "title": "statName.txt",
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/"
+  }
+}

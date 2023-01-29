@@ -1,0 +1,371 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Weather Stations\\my-website\\sidebars.js",
+          "contentPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Weather Stations\\my-website\\docs",
+          "contentPathLocalized": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Weather Stations\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "EEPROM Usage/index",
+              "id": "EEPROM Usage/index",
+              "title": "EEPROM Usage",
+              "description": "📃 Description",
+              "source": "@site/docs/EEPROM Usage/index.md",
+              "sourceDirName": "EEPROM Usage",
+              "slug": "/EEPROM Usage/",
+              "permalink": "/docs/EEPROM Usage/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/EEPROM Usage/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Error Codes",
+                "permalink": "/docs/Error Codes/"
+              }
+            },
+            {
+              "unversionedId": "Error Codes/index",
+              "id": "Error Codes/index",
+              "title": "Error Codes",
+              "description": "This file stores all error codes in a table that is planned to eventually be",
+              "source": "@site/docs/Error Codes/index.md",
+              "sourceDirName": "Error Codes",
+              "slug": "/Error Codes/",
+              "permalink": "/docs/Error Codes/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Error Codes/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "EEPROM Usage",
+                "permalink": "/docs/EEPROM Usage/"
+              },
+              "next": {
+                "title": "statInfo",
+                "permalink": "/docs/SD Card/statInfo/"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Intro",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "EEPROM Usage",
+                "permalink": "/docs/EEPROM Usage/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statInfo/batvolt.txt/index",
+              "id": "SD Card/statInfo/batvolt.txt/index",
+              "title": "batvolt.txt",
+              "description": "📝 Written by: Weather Station",
+              "source": "@site/docs/SD Card/statInfo/batvolt.txt/index.md",
+              "sourceDirName": "SD Card/statInfo/batvolt.txt",
+              "slug": "/SD Card/statInfo/batvolt.txt/",
+              "permalink": "/docs/SD Card/statInfo/batvolt.txt/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/batvolt.txt/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "statInfo",
+                "permalink": "/docs/SD Card/statInfo/"
+              },
+              "next": {
+                "title": "errorlog.txt",
+                "permalink": "/docs/SD Card/statInfo/errorlog.txt/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statInfo/errorlog.txt/index",
+              "id": "SD Card/statInfo/errorlog.txt/index",
+              "title": "errorlog.txt",
+              "description": "Houses all errors that the Arduino accumulates over runtime. Creates a new line",
+              "source": "@site/docs/SD Card/statInfo/errorlog.txt/index.md",
+              "sourceDirName": "SD Card/statInfo/errorlog.txt",
+              "slug": "/SD Card/statInfo/errorlog.txt/",
+              "permalink": "/docs/SD Card/statInfo/errorlog.txt/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/errorlog.txt/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "batvolt.txt",
+                "permalink": "/docs/SD Card/statInfo/batvolt.txt/"
+              },
+              "next": {
+                "title": "wthrvals.csv",
+                "permalink": "/docs/SD Card/statInfo/wthrvals.csv/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statInfo/index",
+              "id": "SD Card/statInfo/index",
+              "title": "statInfo",
+              "description": "Short for \"Station Info\", contains information given by the weather station.",
+              "source": "@site/docs/SD Card/statInfo/index.md",
+              "sourceDirName": "SD Card/statInfo",
+              "slug": "/SD Card/statInfo/",
+              "permalink": "/docs/SD Card/statInfo/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Error Codes",
+                "permalink": "/docs/Error Codes/"
+              },
+              "next": {
+                "title": "batvolt.txt",
+                "permalink": "/docs/SD Card/statInfo/batvolt.txt/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statInfo/wthrvals.csv/index",
+              "id": "SD Card/statInfo/wthrvals.csv/index",
+              "title": "wthrvals.csv",
+              "description": "📝 Written by: Weather Station",
+              "source": "@site/docs/SD Card/statInfo/wthrvals.csv/index.md",
+              "sourceDirName": "SD Card/statInfo/wthrvals.csv",
+              "slug": "/SD Card/statInfo/wthrvals.csv/",
+              "permalink": "/docs/SD Card/statInfo/wthrvals.csv/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statInfo/wthrvals.csv/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "errorlog.txt",
+                "permalink": "/docs/SD Card/statInfo/errorlog.txt/"
+              },
+              "next": {
+                "title": "statOpts",
+                "permalink": "/docs/SD Card/statOpts/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statOpts/index",
+              "id": "SD Card/statOpts/index",
+              "title": "statOpts",
+              "description": "Short for Station Options, this folder houses text files to change certain",
+              "source": "@site/docs/SD Card/statOpts/index.md",
+              "sourceDirName": "SD Card/statOpts",
+              "slug": "/SD Card/statOpts/",
+              "permalink": "/docs/SD Card/statOpts/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "wthrvals.csv",
+                "permalink": "/docs/SD Card/statInfo/wthrvals.csv/"
+              },
+              "next": {
+                "title": "statName.txt",
+                "permalink": "/docs/SD Card/statOpts/statName.txt/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statOpts/statName.txt/index",
+              "id": "SD Card/statOpts/statName.txt/index",
+              "title": "statName.txt",
+              "description": "📝 Written by: Computer/Application",
+              "source": "@site/docs/SD Card/statOpts/statName.txt/index.md",
+              "sourceDirName": "SD Card/statOpts/statName.txt",
+              "slug": "/SD Card/statOpts/statName.txt/",
+              "permalink": "/docs/SD Card/statOpts/statName.txt/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/statName.txt/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "statOpts",
+                "permalink": "/docs/SD Card/statOpts/"
+              },
+              "next": {
+                "title": "time.txt",
+                "permalink": "/docs/SD Card/statOpts/time.txt/"
+              }
+            },
+            {
+              "unversionedId": "SD Card/statOpts/time.txt/index",
+              "id": "SD Card/statOpts/time.txt/index",
+              "title": "time.txt",
+              "description": "📝 Written by: Computer/Application",
+              "source": "@site/docs/SD Card/statOpts/time.txt/index.md",
+              "sourceDirName": "SD Card/statOpts/time.txt",
+              "slug": "/SD Card/statOpts/time.txt/",
+              "permalink": "/docs/SD Card/statOpts/time.txt/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/time.txt/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "statName.txt",
+                "permalink": "/docs/SD Card/statOpts/statName.txt/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "label": "EEPROM Usage",
+                "id": "EEPROM Usage/index"
+              },
+              {
+                "type": "doc",
+                "label": "Error Codes",
+                "id": "Error Codes/index"
+              },
+              {
+                "type": "category",
+                "label": "SD Card",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "statInfo",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "batvolt.txt",
+                        "id": "SD Card/statInfo/batvolt.txt/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "errorlog.txt",
+                        "id": "SD Card/statInfo/errorlog.txt/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "wthrvals.csv",
+                        "id": "SD Card/statInfo/wthrvals.csv/index"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "SD Card/statInfo/index"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "statOpts",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "statName.txt",
+                        "id": "SD Card/statOpts/statName.txt/index"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "time.txt",
+                        "id": "SD Card/statOpts/time.txt/index"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "SD Card/statOpts/index"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

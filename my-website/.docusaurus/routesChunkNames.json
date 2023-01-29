@@ -1,0 +1,63 @@
+{
+  "/Microclimate-Recorder/markdown-page-cc7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "4cb579a7"
+    },
+    "content": "393be207"
+  },
+  "/Microclimate-Recorder/docs-56f": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "637d4d56"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/Microclimate-Recorder/docs/EEPROM Usage-44c": {
+    "__comp": "17896441",
+    "content": "bb9f4dc5"
+  },
+  "/Microclimate-Recorder/docs/Error Codes-1a5": {
+    "__comp": "17896441",
+    "content": "24ecfd97"
+  },
+  "/Microclimate-Recorder/docs/Intro-332": {
+    "__comp": "17896441",
+    "content": "377ca38f"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statInfo-923": {
+    "__comp": "17896441",
+    "content": "2297a93b"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt-352": {
+    "__comp": "17896441",
+    "content": "e856eb7a"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt-d1f": {
+    "__comp": "17896441",
+    "content": "26c1e8fb"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statInfo/wthrvals.csv-0a6": {
+    "__comp": "17896441",
+    "content": "c88cb2a5"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statOpts-939": {
+    "__comp": "17896441",
+    "content": "08c2dc73"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt-4f6": {
+    "__comp": "17896441",
+    "content": "2b37bb60"
+  },
+  "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt-302": {
+    "__comp": "17896441",
+    "content": "e18c1d5c"
+  },
+  "/Microclimate-Recorder/-bf9": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "4cb579a7"
+    },
+    "content": "f3976560"
+  }
+}

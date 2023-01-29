@@ -1,0 +1,24 @@
+{
+  "unversionedId": "SD Card/statOpts/statName.txt/index",
+  "id": "SD Card/statOpts/statName.txt/index",
+  "title": "statName.txt",
+  "description": "📝 Written by: Computer/Application",
+  "source": "@site/docs/SD Card/statOpts/statName.txt/index.md",
+  "sourceDirName": "SD Card/statOpts/statName.txt",
+  "slug": "/SD Card/statOpts/statName.txt/",
+  "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SD Card/statOpts/statName.txt/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "statOpts",
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/"
+  },
+  "next": {
+    "title": "time.txt",
+    "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt/"
+  }
+}

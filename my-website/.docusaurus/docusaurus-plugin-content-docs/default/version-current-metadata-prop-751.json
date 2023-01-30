@@ -8,131 +8,150 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
-      {
-        "type": "link",
-        "label": "Intro",
-        "href": "/Microclimate-Recorder/docs/intro",
-        "docId": "intro"
-      },
+    "developmentSidebar": [
       {
         "type": "link",
         "label": "EEPROM Usage",
-        "href": "/Microclimate-Recorder/docs/EEPROM Usage/",
-        "docId": "EEPROM Usage/index"
-      },
-      {
-        "type": "link",
-        "label": "Error Codes",
-        "href": "/Microclimate-Recorder/docs/Error Codes/",
-        "docId": "Error Codes/index"
+        "href": "/Microclimate-Recorder/docs/Development/EEPROM Usage/",
+        "docId": "Development/EEPROM Usage/index"
       },
       {
         "type": "category",
-        "label": "SD Card",
+        "label": "SD",
         "collapsible": true,
-        "collapsed": true,
+        "collapsed": false,
         "items": [
           {
             "type": "category",
             "label": "statInfo",
-            "collapsible": true,
-            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "batvolt.txt",
-                "href": "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt/",
-                "docId": "SD Card/statInfo/batvolt.txt/index"
+                "href": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/batvolt.txt/",
+                "docId": "Development/SD Card/statInfo/batvolt.txt/index"
               },
               {
                 "type": "link",
                 "label": "errorlog.txt",
-                "href": "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt/",
-                "docId": "SD Card/statInfo/errorlog.txt/index"
+                "href": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/errorlog.txt/",
+                "docId": "Development/SD Card/statInfo/errorlog.txt/index"
               }
             ],
-            "href": "/Microclimate-Recorder/docs/SD Card/statInfo/"
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/"
           },
           {
             "type": "category",
             "label": "statOpts",
-            "collapsible": true,
-            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "statName.txt",
-                "href": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/",
-                "docId": "SD Card/statOpts/statName.txt/index"
+                "href": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/statName.txt/",
+                "docId": "Development/SD Card/statOpts/statName.txt/index"
               },
               {
                 "type": "link",
                 "label": "time.txt",
-                "href": "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt/",
-                "docId": "SD Card/statOpts/time.txt/index"
+                "href": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/time.txt/",
+                "docId": "Development/SD Card/statOpts/time.txt/index"
               }
             ],
-            "href": "/Microclimate-Recorder/docs/SD Card/statOpts/"
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/"
           }
         ]
+      },
+      {
+        "type": "link",
+        "label": "Task List",
+        "href": "/Microclimate-Recorder/docs/Development/Task List/",
+        "docId": "Development/Task List/index"
+      }
+    ],
+    "diySidebar": [
+      {
+        "type": "link",
+        "label": "Build Dependencies",
+        "href": "/Microclimate-Recorder/docs/DIY/Build Dependencies/",
+        "docId": "DIY/Build Dependencies/index"
+      },
+      {
+        "type": "link",
+        "label": "Supported Platforms",
+        "href": "/Microclimate-Recorder/docs/DIY/Supported Platforms/",
+        "docId": "DIY/Supported Platforms/index"
       }
     ]
   },
   "docs": {
-    "EEPROM Usage/index": {
-      "id": "EEPROM Usage/index",
+    "Development/EEPROM Usage/index": {
+      "id": "Development/EEPROM Usage/index",
       "title": "EEPROM Usage",
       "description": "📃 Description",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statInfo/batvolt.txt/index": {
+      "id": "Development/SD Card/statInfo/batvolt.txt/index",
+      "title": "batvolt.txt",
+      "description": "📝 Written by: Weather Station",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statInfo/errorlog.txt/index": {
+      "id": "Development/SD Card/statInfo/errorlog.txt/index",
+      "title": "errorlog.txt",
+      "description": "Houses all errors that the Arduino accumulates over runtime. Creates a new line",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statInfo/index": {
+      "id": "Development/SD Card/statInfo/index",
+      "title": "statInfo",
+      "description": "Short for \"Station Info\", contains information given by the weather station.",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statOpts/index": {
+      "id": "Development/SD Card/statOpts/index",
+      "title": "statOpts",
+      "description": "Short for Station Options, this folder houses text files to change certain",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statOpts/statName.txt/index": {
+      "id": "Development/SD Card/statOpts/statName.txt/index",
+      "title": "statName.txt",
+      "description": "📝 Written by: Computer/Application",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/SD Card/statOpts/time.txt/index": {
+      "id": "Development/SD Card/statOpts/time.txt/index",
+      "title": "time.txt",
+      "description": "📝 Written by: Computer/Application",
+      "sidebar": "developmentSidebar"
+    },
+    "Development/Task List/index": {
+      "id": "Development/Task List/index",
+      "title": "index",
+      "description": "📜 Task List (Priorities 1 and 2 are needed for first prototype)",
+      "sidebar": "developmentSidebar"
+    },
+    "DIY/Build Dependencies/index": {
+      "id": "DIY/Build Dependencies/index",
+      "title": "index",
+      "description": "🛠 Build Dependencies",
+      "sidebar": "diySidebar"
+    },
+    "DIY/Supported Platforms/index": {
+      "id": "DIY/Supported Platforms/index",
+      "title": "Supported Platforms",
+      "description": "This project is currently only built for and tested successfully on the Arduino Nano Every board.",
+      "sidebar": "diySidebar"
     },
     "Error Codes/index": {
       "id": "Error Codes/index",
       "title": "Error Codes",
-      "description": "This file stores all error codes in a table that is planned to eventually be",
-      "sidebar": "tutorialSidebar"
-    },
-    "intro": {
-      "id": "intro",
-      "title": "Intro",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statInfo/batvolt.txt/index": {
-      "id": "SD Card/statInfo/batvolt.txt/index",
-      "title": "batvolt.txt",
-      "description": "📝 Written by: Weather Station",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statInfo/errorlog.txt/index": {
-      "id": "SD Card/statInfo/errorlog.txt/index",
-      "title": "errorlog.txt",
-      "description": "Houses all errors that the Arduino accumulates over runtime. Creates a new line",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statInfo/index": {
-      "id": "SD Card/statInfo/index",
-      "title": "statInfo",
-      "description": "Short for \"Station Info\", contains information given by the weather station.",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statOpts/index": {
-      "id": "SD Card/statOpts/index",
-      "title": "statOpts",
-      "description": "Short for Station Options, this folder houses text files to change certain",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statOpts/statName.txt/index": {
-      "id": "SD Card/statOpts/statName.txt/index",
-      "title": "statName.txt",
-      "description": "📝 Written by: Computer/Application",
-      "sidebar": "tutorialSidebar"
-    },
-    "SD Card/statOpts/time.txt/index": {
-      "id": "SD Card/statOpts/time.txt/index",
-      "title": "time.txt",
-      "description": "📝 Written by: Computer/Application",
-      "sidebar": "tutorialSidebar"
+      "description": "This file stores all error codes in a table that is planned to eventually be"
     }
   }
 }

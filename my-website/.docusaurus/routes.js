@@ -3,58 +3,38 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Microclimate-Recorder/blog',
-    component: ComponentCreator('/Microclimate-Recorder/blog', 'ec6'),
+    path: '/Microclimate-Recorder/__docusaurus/debug',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug', 'af2'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/archive',
-    component: ComponentCreator('/Microclimate-Recorder/blog/archive', '044'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/config',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/config', '4ae'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/first-blog-post',
-    component: ComponentCreator('/Microclimate-Recorder/blog/first-blog-post', 'bf9'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/content',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/content', 'a14'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/long-blog-post',
-    component: ComponentCreator('/Microclimate-Recorder/blog/long-blog-post', '670'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/globalData', 'f05'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/mdx-blog-post',
-    component: ComponentCreator('/Microclimate-Recorder/blog/mdx-blog-post', '1d8'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/metadata', 'ad5'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/tags',
-    component: ComponentCreator('/Microclimate-Recorder/blog/tags', '91c'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/registry',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/registry', '1b1'),
     exact: true
   },
   {
-    path: '/Microclimate-Recorder/blog/tags/docusaurus',
-    component: ComponentCreator('/Microclimate-Recorder/blog/tags/docusaurus', '553'),
-    exact: true
-  },
-  {
-    path: '/Microclimate-Recorder/blog/tags/facebook',
-    component: ComponentCreator('/Microclimate-Recorder/blog/tags/facebook', '4d1'),
-    exact: true
-  },
-  {
-    path: '/Microclimate-Recorder/blog/tags/hello',
-    component: ComponentCreator('/Microclimate-Recorder/blog/tags/hello', '88c'),
-    exact: true
-  },
-  {
-    path: '/Microclimate-Recorder/blog/tags/hola',
-    component: ComponentCreator('/Microclimate-Recorder/blog/tags/hola', 'b5c'),
-    exact: true
-  },
-  {
-    path: '/Microclimate-Recorder/blog/welcome',
-    component: ComponentCreator('/Microclimate-Recorder/blog/welcome', 'c70'),
+    path: '/Microclimate-Recorder/__docusaurus/debug/routes',
+    component: ComponentCreator('/Microclimate-Recorder/__docusaurus/debug/routes', 'c02'),
     exact: true
   },
   {
@@ -64,61 +44,72 @@ export default [
   },
   {
     path: '/Microclimate-Recorder/docs',
-    component: ComponentCreator('/Microclimate-Recorder/docs', '3b8'),
+    component: ComponentCreator('/Microclimate-Recorder/docs', 'f99'),
     routes: [
       {
-        path: '/Microclimate-Recorder/docs/EEPROM Usage',
-        component: ComponentCreator('/Microclimate-Recorder/docs/EEPROM Usage', '44c'),
+        path: '/Microclimate-Recorder/docs/Development/EEPROM Usage',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/EEPROM Usage', '45f'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statInfo',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statInfo', '0f9'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statInfo/batvolt.txt',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statInfo/batvolt.txt', 'a0d'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statInfo/errorlog.txt',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statInfo/errorlog.txt', '8cb'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statOpts',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statOpts', '7cd'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statOpts/statName.txt',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statOpts/statName.txt', '2ed'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/SD Card/statOpts/time.txt',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/SD Card/statOpts/time.txt', '3b6'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/Development/Task List',
+        component: ComponentCreator('/Microclimate-Recorder/docs/Development/Task List', '02c'),
+        exact: true,
+        sidebar: "developmentSidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/DIY/Build Dependencies',
+        component: ComponentCreator('/Microclimate-Recorder/docs/DIY/Build Dependencies', '318'),
+        exact: true,
+        sidebar: "diySidebar"
+      },
+      {
+        path: '/Microclimate-Recorder/docs/DIY/Supported Platforms',
+        component: ComponentCreator('/Microclimate-Recorder/docs/DIY/Supported Platforms', 'e71'),
+        exact: true,
+        sidebar: "diySidebar"
       },
       {
         path: '/Microclimate-Recorder/docs/Error Codes',
-        component: ComponentCreator('/Microclimate-Recorder/docs/Error Codes', '1a5'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/intro',
-        component: ComponentCreator('/Microclimate-Recorder/docs/intro', '6df'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statInfo',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statInfo', '923'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt', '352'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt', 'd1f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statOpts',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statOpts', '939'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt', '4f6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/Microclimate-Recorder/docs/SD Card/statOpts/time.txt',
-        component: ComponentCreator('/Microclimate-Recorder/docs/SD Card/statOpts/time.txt', '302'),
-        exact: true,
-        sidebar: "tutorialSidebar"
+        component: ComponentCreator('/Microclimate-Recorder/docs/Error Codes', 'b9a'),
+        exact: true
       }
     ]
   },

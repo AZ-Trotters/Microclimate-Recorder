@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "EEPROM Usage",
-    "permalink": "/Microclimate-Recorder/docs/EEPROM Usage/"
+    "permalink": "/Microclimate-Recorder/docs/Development/EEPROM Usage/"
   }
 }

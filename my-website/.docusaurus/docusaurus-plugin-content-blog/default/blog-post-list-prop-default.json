@@ -1,21 +1,4 @@
 {
   "title": "Recent posts",
-  "items": [
-    {
-      "title": "Welcome",
-      "permalink": "/Microclimate-Recorder/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/Microclimate-Recorder/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/Microclimate-Recorder/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/Microclimate-Recorder/blog/first-blog-post"
-    }
-  ]
+  "items": []
 }

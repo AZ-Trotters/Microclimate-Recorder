@@ -16,5 +16,9 @@
   "previous": {
     "title": "statName.txt",
     "permalink": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/Microclimate-Recorder/docs/devguide/intro"
   }
 }

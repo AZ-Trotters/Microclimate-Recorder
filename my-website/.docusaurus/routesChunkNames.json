@@ -1,196 +1,110 @@
 {
-  "/Microclimate-Recorder/blog-ec6": {
-    "__comp": "a6aa9e1f",
+  "/Microclimate-Recorder/__docusaurus/debug-af2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "metadata": "49a35d28"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
-  "/Microclimate-Recorder/blog/archive-044": {
-    "__comp": "9e4087bc",
+  "/Microclimate-Recorder/__docusaurus/debug/config-4ae": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "archive": "5bed1d82"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
-  "/Microclimate-Recorder/blog/first-blog-post-bf9": {
-    "__comp": "ccc49370",
+  "/Microclimate-Recorder/__docusaurus/debug/content-a14": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "92452b75"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "allContent": "allContent---microclimate-recorder-docusaurus-debug-content-246-776"
   },
-  "/Microclimate-Recorder/blog/long-blog-post-670": {
-    "__comp": "ccc49370",
+  "/Microclimate-Recorder/__docusaurus/debug/globalData-f05": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
-  "/Microclimate-Recorder/blog/mdx-blog-post-1d8": {
-    "__comp": "ccc49370",
+  "/Microclimate-Recorder/__docusaurus/debug/metadata-ad5": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
-  "/Microclimate-Recorder/blog/tags-91c": {
-    "__comp": "01a85c17",
+  "/Microclimate-Recorder/__docusaurus/debug/registry-1b1": {
+    "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "tags": "d8e6ad35"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
-  "/Microclimate-Recorder/blog/tags/docusaurus-553": {
-    "__comp": "6875c492",
+  "/Microclimate-Recorder/__docusaurus/debug/routes-c02": {
+    "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "deacc012",
-    "listMetadata": "3abe7c8a"
-  },
-  "/Microclimate-Recorder/blog/tags/facebook-4d1": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      }
-    ],
-    "tag": "4a2ee79b",
-    "listMetadata": "4bb0f2fe"
-  },
-  "/Microclimate-Recorder/blog/tags/hello-88c": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "tag": "64726ba5",
-    "listMetadata": "0d0e3f20"
-  },
-  "/Microclimate-Recorder/blog/tags/hola-b5c": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "3fc4ca50",
-    "listMetadata": "b56919a0"
-  },
-  "/Microclimate-Recorder/blog/welcome-c70": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "92452b75"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+      "plugin": "plugin---microclimate-recorder-docusaurus-debug-301-18e"
+    }
   },
   "/Microclimate-Recorder/markdown-page-eed": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "05741993"
+      "plugin": "plugin---microclimate-recorder-markdown-page-057-a8e"
     },
-    "content": "393be207"
+    "content": "content---microclimate-recorder-markdown-page-393-63b"
   },
-  "/Microclimate-Recorder/docs-3b8": {
-    "__comp": "1be78505",
+  "/Microclimate-Recorder/docs-f99": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "89caa3d7"
+      "plugin": "plugin---microclimate-recorder-docs-89-c-5e0"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---microclimate-recorder-docs-935-49d"
   },
-  "/Microclimate-Recorder/docs/EEPROM Usage-44c": {
-    "__comp": "17896441",
-    "content": "bb9f4dc5"
+  "/Microclimate-Recorder/docs/Development/EEPROM Usage-45f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-eeprom-usage-6-d-5-c43"
   },
-  "/Microclimate-Recorder/docs/Error Codes-1a5": {
-    "__comp": "17896441",
-    "content": "24ecfd97"
+  "/Microclimate-Recorder/docs/Development/SD Card/statInfo-0f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-infod-95-d18"
   },
-  "/Microclimate-Recorder/docs/intro-6df": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+  "/Microclimate-Recorder/docs/Development/SD Card/statInfo/batvolt.txt-a0d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-info-batvolt-txtecb-e67"
   },
-  "/Microclimate-Recorder/docs/SD Card/statInfo-923": {
-    "__comp": "17896441",
-    "content": "2297a93b"
+  "/Microclimate-Recorder/docs/Development/SD Card/statInfo/errorlog.txt-8cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-info-errorlog-txt-7-b-7-785"
   },
-  "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt-352": {
-    "__comp": "17896441",
-    "content": "e856eb7a"
+  "/Microclimate-Recorder/docs/Development/SD Card/statOpts-7cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-opts-7-e-1-a1d"
   },
-  "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt-d1f": {
-    "__comp": "17896441",
-    "content": "26c1e8fb"
+  "/Microclimate-Recorder/docs/Development/SD Card/statOpts/statName.txt-2ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-opts-stat-name-txt-867-665"
   },
-  "/Microclimate-Recorder/docs/SD Card/statOpts-939": {
-    "__comp": "17896441",
-    "content": "08c2dc73"
+  "/Microclimate-Recorder/docs/Development/SD Card/statOpts/time.txt-3b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-sd-card-stat-opts-time-txt-94-e-524"
   },
-  "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt-4f6": {
-    "__comp": "17896441",
-    "content": "2b37bb60"
+  "/Microclimate-Recorder/docs/Development/Task List-02c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-development-task-list-4-a-2-335"
   },
-  "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt-302": {
-    "__comp": "17896441",
-    "content": "e18c1d5c"
+  "/Microclimate-Recorder/docs/DIY/Build Dependencies-318": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-diy-build-dependenciesec-7-bc7"
+  },
+  "/Microclimate-Recorder/docs/DIY/Supported Platforms-e71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-diy-supported-platforms-578-1db"
+  },
+  "/Microclimate-Recorder/docs/Error Codes-b9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-error-codes-24-e-774"
   },
   "/Microclimate-Recorder/-d2f": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "05741993"
+      "plugin": "plugin---microclimate-recorder-markdown-page-057-a8e"
     },
-    "config": "5e9f5e1a"
+    "config": "config---microclimate-recorder-5-e-9-7cd"
   }
 }

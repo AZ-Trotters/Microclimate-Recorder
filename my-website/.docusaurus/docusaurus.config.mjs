@@ -4,8 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Microclimate Recorder",
   "favicon": "img/favicon.ico",
   "url": "https://az-trotters.github.io",
   "baseUrl": "/Microclimate-Recorder/",
@@ -44,7 +43,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Microclimate Recorder",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -52,17 +51,30 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "DIY/Build Dependencies/index",
           "position": "left",
-          "label": "Tutorial"
+          "label": "DIY"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "type": "doc",
+          "docId": "Error Codes/index",
+          "position": "left",
+          "label": "Error Codes"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "type": "doc",
+          "docId": "Development/EEPROM Usage/index",
+          "position": "left",
+          "label": "Development"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
+        },
+        {
+          "href": "https://github.com/AZ-Trotters/Microclimate-Recorder",
           "label": "GitHub",
           "position": "right"
         }
@@ -73,46 +85,20 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "GitHub Repository",
+              "href": "https://github.com/AZ-Trotters/Microclimate-Recorder"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "GitHub Organization",
+              "href": "https://github.com/AZ-Trotters"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 AZ-Trotters Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -348,6 +334,7 @@ export default {
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],
+  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

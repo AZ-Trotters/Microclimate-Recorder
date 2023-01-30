@@ -8,60 +8,75 @@
           "label": "Next",
           "isLast": true,
           "path": "/Microclimate-Recorder/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Development/EEPROM Usage/index",
           "docs": [
             {
-              "id": "EEPROM Usage/index",
-              "path": "/Microclimate-Recorder/docs/EEPROM Usage/",
-              "sidebar": "tutorialSidebar"
+              "id": "Development/EEPROM Usage/index",
+              "path": "/Microclimate-Recorder/docs/Development/EEPROM Usage/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statInfo/batvolt.txt/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/batvolt.txt/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statInfo/errorlog.txt/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/errorlog.txt/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statInfo/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statInfo/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statOpts/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statOpts/statName.txt/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/statName.txt/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/SD Card/statOpts/time.txt/index",
+              "path": "/Microclimate-Recorder/docs/Development/SD Card/statOpts/time.txt/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "Development/Task List/index",
+              "path": "/Microclimate-Recorder/docs/Development/Task List/",
+              "sidebar": "developmentSidebar"
+            },
+            {
+              "id": "DIY/Build Dependencies/index",
+              "path": "/Microclimate-Recorder/docs/DIY/Build Dependencies/",
+              "sidebar": "diySidebar"
+            },
+            {
+              "id": "DIY/Supported Platforms/index",
+              "path": "/Microclimate-Recorder/docs/DIY/Supported Platforms/",
+              "sidebar": "diySidebar"
             },
             {
               "id": "Error Codes/index",
-              "path": "/Microclimate-Recorder/docs/Error Codes/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/Microclimate-Recorder/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statInfo/batvolt.txt/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statInfo/batvolt.txt/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statInfo/errorlog.txt/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statInfo/errorlog.txt/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statInfo/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statInfo/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statOpts/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statOpts/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statOpts/statName.txt/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statOpts/statName.txt/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "SD Card/statOpts/time.txt/index",
-              "path": "/Microclimate-Recorder/docs/SD Card/statOpts/time.txt/",
-              "sidebar": "tutorialSidebar"
+              "path": "/Microclimate-Recorder/docs/Error Codes/"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "developmentSidebar": {
               "link": {
-                "path": "/Microclimate-Recorder/docs/intro",
-                "label": "intro"
+                "path": "/Microclimate-Recorder/docs/Development/EEPROM Usage/",
+                "label": "EEPROM Usage"
+              }
+            },
+            "diySidebar": {
+              "link": {
+                "path": "/Microclimate-Recorder/docs/DIY/Build Dependencies/",
+                "label": "Build Dependencies"
               }
             }
           }

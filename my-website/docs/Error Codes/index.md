@@ -6,6 +6,5 @@ encounter. (Giving an ID to issues helps troubleshooting)
 
 |Error Code|Error Message|
 |-|-|
-|1001|No SD Card connected on startup, will write to local limited storage, which can't hold much. You will NEED an SD card to recover this data.|
-|1002|Realtime Clock module not found. System has halted, and must be rebooted|
-|1003|Realtime Clock ran out of battery power on system startup. Replace the battery on the clock. The clock will continue to function while powered up, but time will be predefined and reset on each system startup|
+|0|A Realtime Clock was not found. System has halted, and must be rebooted. The clock module of your system is not securely connected to the main microcontroller.|
+|1|Realtime Clock ran out of battery power. Replace the battery on the clock module to ensure it can keep its charge.|

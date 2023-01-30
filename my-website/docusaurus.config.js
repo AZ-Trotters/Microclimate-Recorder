@@ -6,8 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Microclimate Recorder',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,21 +65,61 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Microclimate Recorder',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
+          // {
+          //   type: 'dropdown',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Docs',
+          //   items: [
+          //     {
+          //       type: 'doc',
+          //       label: 'Error Codes',
+          //       docId: 'Error Codes/index'
+          //     },
+          //     {
+          //       type: 'doc',
+          //       label: 'Development',
+          //       docId: 'Development/EEPROM Usage/index'
+          //     }
+          //   ]
+          // },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'DIY/Build Dependencies/index',
             position: 'left',
-            label: 'Tutorial',
+            label: 'DIY',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            docId: 'Error Codes/index',
+            position: 'left',
+            label: 'Error Codes',
+          },
+          {
+            type: 'doc',
+            docId: 'Development/EEPROM Usage/index',
+            position: 'left',
+            label: 'Development',
+          },
+          // {
+          //   type: 'doc',
+          //   docId: 'devguide/intro',
+          //   position: 'left',
+          //   label: 'Dev Guide',
+          // },
+          // {to: 'devguide/Intro', label: 'Dev Guide', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/AZ-Trotters/Microclimate-Recorder',
             label: 'GitHub',
             position: 'right',
           },
@@ -90,46 +129,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GitHub Repository',
+                href: 'https://github.com/AZ-Trotters/Microclimate-Recorder',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Organization',
+                href: 'https://github.com/AZ-Trotters',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AZ-Trotters Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

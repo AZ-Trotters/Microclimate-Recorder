@@ -21,9 +21,8 @@ time
 * [ ] :three: Monitor and provide battery voltage (save to SD card on wake)
 * [ ] :three: Add dependency list here including library names and
 versions used for Arduino upload
-* [ ] :three: Alphabetize all variable and function declarations
-* [ ] :three: Error indicator LED
-* [ ] :three: OK to remove SD card LED
+* [X] :three: Error indicator LED
+* [X] :three: OK to remove SD card LED
 * [ ] :three: Red light should indicate (multiple blinks?) that stationName on
 SD (statInfo) is not the same as station name (User put wrong SD in wrong system
 in multi-system setup)

@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AZ-Trotters/Microclimate-Recorder/blob/site-source/my-website',
         },
         blog: {
           showReadingTime: true,
@@ -91,21 +91,27 @@ const config = {
           // },
           {
             type: 'doc',
-            docId: 'DIY/Build Dependencies/index',
-            position: 'left',
-            label: 'DIY',
-          },
-          {
-            type: 'doc',
             docId: 'Error Codes/index',
             position: 'left',
             label: 'Error Codes',
           },
           {
             type: 'doc',
+            docId: 'DIY/Build Dependencies/index',
+            position: 'left',
+            label: 'DIY',
+          },
+          {
+            type: 'doc',
             docId: 'Development/EEPROM Usage/index',
             position: 'left',
             label: 'Development',
+          },
+          {
+            type: 'doc',
+            docId: 'FAQ/index',
+            position: 'left',
+            label: 'FAQ',
           },
           // {
           //   type: 'doc',
@@ -114,10 +120,10 @@ const config = {
           //   label: 'Dev Guide',
           // },
           // {to: 'devguide/Intro', label: 'Dev Guide', position: 'left'},
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
           {
             href: 'https://github.com/AZ-Trotters/Microclimate-Recorder',
             label: 'GitHub',

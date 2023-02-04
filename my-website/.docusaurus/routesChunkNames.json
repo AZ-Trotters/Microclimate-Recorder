@@ -49,7 +49,7 @@
     },
     "content": "content---microclimate-recorder-markdown-page-393-63b"
   },
-  "/Microclimate-Recorder/docs-f99": {
+  "/Microclimate-Recorder/docs-6fd": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---microclimate-recorder-docs-89-c-5e0"
@@ -99,6 +99,10 @@
   "/Microclimate-Recorder/docs/Error Codes-b9a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---microclimate-recorder-docs-error-codes-24-e-774"
+  },
+  "/Microclimate-Recorder/docs/FAQ-c1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---microclimate-recorder-docs-faq-2-c-6-0c7"
   },
   "/Microclimate-Recorder/-d2f": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

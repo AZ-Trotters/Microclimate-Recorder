@@ -63,6 +63,10 @@
             {
               "id": "Error Codes/index",
               "path": "/Microclimate-Recorder/docs/Error Codes/"
+            },
+            {
+              "id": "FAQ/index",
+              "path": "/Microclimate-Recorder/docs/FAQ/"
             }
           ],
           "draftIds": [],

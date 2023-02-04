@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/Microclimate-Recorder/docs',
-    component: ComponentCreator('/Microclimate-Recorder/docs', 'f99'),
+    component: ComponentCreator('/Microclimate-Recorder/docs', '6fd'),
     routes: [
       {
         path: '/Microclimate-Recorder/docs/Development/EEPROM Usage',
@@ -109,6 +109,11 @@ export default [
       {
         path: '/Microclimate-Recorder/docs/Error Codes',
         component: ComponentCreator('/Microclimate-Recorder/docs/Error Codes', 'b9a'),
+        exact: true
+      },
+      {
+        path: '/Microclimate-Recorder/docs/FAQ',
+        component: ComponentCreator('/Microclimate-Recorder/docs/FAQ', 'c1b'),
         exact: true
       }
     ]

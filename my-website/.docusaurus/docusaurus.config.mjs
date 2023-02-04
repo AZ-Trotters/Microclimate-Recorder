@@ -28,7 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\derpe\\OneDrive\\Documents\\Code Projects\\Microclimate Sensor 1\\my-website\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/AZ-Trotters/Microclimate-Recorder/blob/site-source/my-website"
         },
         "blog": {
           "showReadingTime": true,
@@ -51,15 +51,15 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "DIY/Build Dependencies/index",
-          "position": "left",
-          "label": "DIY"
-        },
-        {
-          "type": "doc",
           "docId": "Error Codes/index",
           "position": "left",
           "label": "Error Codes"
+        },
+        {
+          "type": "doc",
+          "docId": "DIY/Build Dependencies/index",
+          "position": "left",
+          "label": "DIY"
         },
         {
           "type": "doc",
@@ -68,10 +68,10 @@ export default {
           "label": "Development"
         },
         {
-          "type": "localeDropdown",
-          "position": "right",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
+          "type": "doc",
+          "docId": "FAQ/index",
+          "position": "left",
+          "label": "FAQ"
         },
         {
           "href": "https://github.com/AZ-Trotters/Microclimate-Recorder",

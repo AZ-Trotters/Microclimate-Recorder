@@ -1,8 +1,6 @@
 # Error Codes
 
-This file stores all error codes in a table that is planned to eventually be
-hosted (GitHub Pages?) for easy understanding and fixing of issues the user may
-encounter. (Giving an ID to issues helps troubleshooting)
+While you're using your Microclimate Recorder, you may see a red light after pressing the SD removal button. This means you should check the SD file "statInfo/errorlog.txt" for any error codes. Here's what they mean in detail:
 
 |Error Code|Error Message|
 |-|-|

@@ -138,8 +138,8 @@
     },
     "DIY/Build Dependencies/index": {
       "id": "DIY/Build Dependencies/index",
-      "title": "index",
-      "description": "🛠 Build Dependencies",
+      "title": "🛠 Build Dependencies",
+      "description": "📚 Third-Party Libraries",
       "sidebar": "diySidebar"
     },
     "DIY/Supported Platforms/index": {
@@ -151,7 +151,12 @@
     "Error Codes/index": {
       "id": "Error Codes/index",
       "title": "Error Codes",
-      "description": "This file stores all error codes in a table that is planned to eventually be"
+      "description": "While you're using your Microclimate Recorder, you may see a red light after pressing the SD removal button. This means you should check the SD file \"statInfo/errorlog.txt\" for any error codes. Here's what they mean in detail:"
+    },
+    "FAQ/index": {
+      "id": "FAQ/index",
+      "title": "FAQ",
+      "description": "Who is this project meant for?"
     }
   }
 }
